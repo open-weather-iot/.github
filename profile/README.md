@@ -12,4 +12,4 @@ Através do protocolo LoRaWAN, a estações meteorológicas enviam em intervalos
 
 Por ter uma estrutura modular, o projeto permite que instrumentos de medição sejam adicionados, substituídos ou removidos. Até mesmo o protocolo de comunicação pode ser substituído.
 
-> 🎓 Este projeto nasceu durante a disciplina **Laboratório Experimental do Campus Inteligente** da **UNICAMP**.
+> 🎓 Este projeto nasceu durante a disciplina **Laboratório Experimental do Campus Inteligente** da **UNICAMP**, coordenada pelo professor [@fruett](//github.com/fruett).
